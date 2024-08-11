@@ -26,6 +26,7 @@
 ***- Simple and intuitive user interface.***  
 ***- Time updates automatically every second.***  
 ***- Uses CSS animations for smooth transitions.***  
+***- There is circular ring shape with diffecrent color with animation.***
 
 <br>
 
@@ -56,12 +57,10 @@
 
 <br>
 
-# Or
+<!-- # Or -->
 
-<br>
-
-Visit the link to view the clock online :  
-https://ashrafulalam005.github.io/digital-clock-with-html-css-javascript/
+<!-- Visit the link to view the clock online :  -->
+<!-- https://ashrafulalam005.github.io/digital-clock-with-html-css-javascript/ -->
 
 <br> 
 
@@ -73,6 +72,17 @@ https://ashrafulalam005.github.io/digital-clock-with-html-css-javascript/
 
 <br> 
 
-<img src="https://github.com/ashrafulalam005/digital-clock-with-html/blob/main/Screenshots/digital-clock.png" alt="Screenshot 1" height="400" width="400">
+<img src="https://github.com/ashrafulalam005/Digital-Clock-with-html-css-javascript/blob/main/necessary%20img/demo.png" alt="demo png" height="380" width="600">
 
-<br> <br> 
+<br> 
+
+## GIF demo video
+
+<br>
+
+<img src="https://github.com/ashrafulalam005/Digital-Clock-with-html-css-javascript/blob/main/necessary%20img/digitalclock.gif" alt="demo gif" height="500" width="600">
+
+<br> 
+
+
+
